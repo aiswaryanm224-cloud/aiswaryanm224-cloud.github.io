@@ -13,7 +13,7 @@ to contribute, learn, and grow in AI and Web Development.
 
 ##  Technologies
 
-- Languages:** Python, c
+- Languages: Python, c
 - Frontend: React, HTML, CSS
 - Backend: Node.js
 - Interests: AI/ML, Web Development, Innovation
